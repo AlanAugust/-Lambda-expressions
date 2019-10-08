@@ -1,2 +1,2 @@
-# -Lambda-expressions
+# Lambda-expressions
 Learning lambda-expressions
